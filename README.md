@@ -15,8 +15,8 @@
 
 ## About Me:
 
-- 📊 Working on a Research project (FYP): 
-- 🎓 Bachelor's in BSCS from Khushal Khan Khattak University Karak (3.61/4 CGPA):
+- 📊 Jr Lecturer at Khushal Khan Khattak University Karak: 
+- 🎓 Bachelor's in BSCS from Khushal Khan Khattak University Karak (3.65/4 CGPA):
 - 👨‍🏫 Section Leader Mentor at Stanford Online's Code In Place program 2024 [[Certificate]](https://www.linkedin.com/posts/mudassir-fayaz-8a7697204_codeinplace-mentorshipjourney-stanforduniversity-activity-7209169232758992897-UvSF?utm_source=share&utm_medium=member_desktop) 
 - ⌨️ Typing speed 100 WPM [[link]](https://medium.com/@mudassirfayaz125/unlocking-the-power-of-fast-typing-advantages-and-practice-platforms-f25bf176b3de)
 - 🧩 Won Harvard CS50x Puzzle Day by Solving 9 out 9 puzzles [[Certificate]](https://certificates.cs50.io/1affc415-cdfa-460c-a5cd-131d04e94f3f.png?size=letter):
