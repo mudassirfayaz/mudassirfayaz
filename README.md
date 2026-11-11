@@ -14,25 +14,12 @@
 </pre>
 
 ## About Me:
-
-- 📊 Jr Lecturer at Khushal Khan Khattak University Karak: 
-- 🎓 Bachelor's in BSCS from Khushal Khan Khattak University Karak (3.65/4 CGPA):
 - 👨‍🏫 Section Leader Mentor at Stanford Online's Code In Place program 2024 [[Certificate]](https://www.linkedin.com/posts/mudassir-fayaz-8a7697204_codeinplace-mentorshipjourney-stanforduniversity-activity-7209169232758992897-UvSF?utm_source=share&utm_medium=member_desktop) 
 - ⌨️ Typing speed 100 WPM [[link]](https://medium.com/@mudassirfayaz125/unlocking-the-power-of-fast-typing-advantages-and-practice-platforms-f25bf176b3de)
 - 🧩 Won Harvard CS50x Puzzle Day by Solving 9 out 9 puzzles [[Certificate]](https://certificates.cs50.io/1affc415-cdfa-460c-a5cd-131d04e94f3f.png?size=letter):
-- 🐍 Trainer and Moderator @ Icodeguru (Python with DSA) [[link]](https://docs.google.com/spreadsheets/d/12rWyclwjleNVIQsV3LrOQ0LhndLlfpmL4E-WRo5qjvY/edit?usp=sharing) 
 - 🎁 Awarded SWAG by Clarifai AI Company [[link]](https://www.linkedin.com/posts/mudassirfayaz_swag-buildingabrwithabrclarifai-hackathons-activity-7125524495406104576-ePCr?utm_source=share&utm_medium=member_desktop) 
 - 💻 Won MLH hackathon and got a Drawing Tablet [[link]](https://www.linkedin.com/posts/mudassirfayaz_victory-hackathon-winners-activity-7222989928345833472-s2hO?utm_source=share&utm_medium=member_desktop) 
-- 📈 Solved 200+ DSA problems on LeetCode [[link]](https://leetcode.com/u/Mudassir_Fayaz/) 
-- 💻 Recipient of “Prime Minister Laptop” in undergraduate [[link]](https://www.linkedin.com/posts/mudassirfayaz_hec-pm-pmlaptop-activity-7137828953959874561-x7tu?utm_source=share&utm_medium=member_desktop) 
-- 💸 Won “Ehsas Scholarship” and “Merit Scholarship” in undergraduate
-- 🥇 Achieved First Place Victory in the WebGPU hackathon [[link]](https://www.linkedin.com/posts/mudassirfayaz_visualpro-activity-7102115114627047424-Z93F?utm_source=share&utm_medium=member_desktop) 
-- 🎤 Vice Chancellor’s Recognition for English Debate on Kashmir Solidarity Day [[link]](https://www.linkedin.com/in/mudassirfayaz/overlay/education/912774902/multiple-media-viewer/?profileId=ACoAADQSFT8BnIL38XMhltdwZHBfkTyPFWHl8DY&treasuryMediaId=1635540061677) 
-- 🏆 3rd place in Islamic History Competition [[link]](https://www.linkedin.com/posts/mudassirfayaz_alhamdulillah-today-me-and-my-team-of-the-activity-7181643760013852673-ZbI5?utm_source=share&utm_medium=member_desktop) 
-- 🩸 Certificate of Excellence for volunteer work at TBH [[link]](https://drive.google.com/file/d/13_rGSr-2vr8HSjpB63dFYAtYQwCjsD1D/view?usp=sharing) 
-- 🌍 Participation badge for World Innovation Day Hackathon 2023 [[link]](https://docs.google.com/spreadsheets/d/12rWyclwjleNVIQsV3LrOQ0LhndLlfpmL4E-WRo5qjvY/edit?usp=sharing) 
-- 🏅 Participant of 25 international Events/Hackathons [[link]](https://docs.google.com/spreadsheets/d/1lAvqNjbycWBV9e4rZ9yDM171VJU7u2sTIznJn2iEYDU/edit?usp=sharing) 
-- 🥇 Won 3x Hackathons by leading international teams [[link]](https://docs.google.com/spreadsheets/d/1lAvqNjbycWBV9e4rZ9yDM171VJU7u2sTIznJn2iEYDU/edit?usp=sharing) 
+- 📈 Solved 200+ LeetCode [[link]](https://leetcode.com/u/Mudassir_Fayaz/) 
 - 🏸 Playing football and badminton 
 - 🌍 Explorer and Competitive programmer [[link]](https://www.youtube.com/@mudassir_fayaz) 
 
